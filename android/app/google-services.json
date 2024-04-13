@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98259379734",
+    "project_id": "flutter-work-2bff2",
+    "storage_bucket": "flutter-work-2bff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98259379734:android:81569eb51fba29ae34b737",
+        "android_client_info": {
+          "package_name": "com.example.flutter_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXE3qWapgo0FYbGQpASad2aCA45qH9pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
